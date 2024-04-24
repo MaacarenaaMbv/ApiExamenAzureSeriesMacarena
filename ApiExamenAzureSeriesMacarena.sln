@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiExamenAzureSeriesMacarena", "ApiExamenAzureSeriesMacarena\ApiExamenAzureSeriesMacarena.csproj", "{E0F9C48A-71D1-4AF8-9705-0DA5B246BC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F9C48A-71D1-4AF8-9705-0DA5B246BC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F9C48A-71D1-4AF8-9705-0DA5B246BC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F9C48A-71D1-4AF8-9705-0DA5B246BC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F9C48A-71D1-4AF8-9705-0DA5B246BC60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6D0242-48FE-48CE-8856-CB156BD90037}
+	EndGlobalSection
+EndGlobal
